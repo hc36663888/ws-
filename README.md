@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         WhatsApp 翻译助手 v12·Fix9（翻译+快捷话术+T一键翻译+锁定弹窗）
+// @name         WhatsApp 翻译助手 v12·Fix9 + QuickPhrases v3.3
 // @namespace    https://chat.openai.com/
 // @version      12.9
-// @description  WhatsApp Web 自动翻译消息 & 输入框翻译（A/B）、切换聊天自动翻译、历史消息、新消息、GAS + OpenAI、多语言、T 按钮、Lexical 输入框修复 + 右中悬浮翻译图标一键翻译 + 翻译面板锁定 + 右下快捷话术（英文+中文+批量导入）
+// @description  WhatsApp Web 自动翻译消息 & 输入框翻译（A/B）、切换聊天自动翻译、历史消息、新消息、GAS + OpenAI、多语言、T 按钮、Lexical 修复、右下快捷话术（支持批量、双语）
 // @match        https://web.whatsapp.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
